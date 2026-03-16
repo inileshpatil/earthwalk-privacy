@@ -91,5 +91,5 @@ EarthWalk is **100% offline**. All your data is stored locally on your device on
 ---
 
 <p align="center">
-  Made with ❤️ by Nilesh Patil &nbsp;·&nbsp; © 2026 EarthWalk
+  Made by Nilesh Patil &nbsp;·&nbsp; © 2026 EarthWalk
 </p>
